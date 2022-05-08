@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XinyanZhang027
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and CyberSecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail: lefestin@yahoo.com
 
